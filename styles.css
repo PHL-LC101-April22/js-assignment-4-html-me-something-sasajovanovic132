@@ -1,1 +1,64 @@
-/* Write your CSS here! */
+body{
+    display: block;
+    margin: 8px;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: lightgray;
+    color: black;
+    font-size: 15px; 
+  }
+ #mainHeading{
+     color:white;
+ }
+.funParagraph{
+    color: green;
+}
+
+
+
+  h1   {
+    font-family:"Times New Roman", Times, serif;
+    color: #4D2416;
+    font-size: 250%;
+    text-align:center;
+    background-color: antiquewhite;
+  }
+  
+  aside {font-family: cursive;
+    background-color: antiquewhite;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size:150%;
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  h3   {
+    font-family:Times, serif;
+    color: #4D2416;
+    font-size: 120%;
+    text-decoration:underline;
+  }
+  p {
+  font-family: sans-serif;
+  color:black;
+  font-size: 105%;
+  }
+  
+  div {
+      text-align: center;
+  }
+  
+  em {
+      color:lightcoral;
+  }
+
+  
+  footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+    text-align: center;  
+  }
